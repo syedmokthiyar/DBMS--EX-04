@@ -1,4 +1,4 @@
-# DBMS--EX-04
+# EX-04 Aggregate Function
 #### AIM: 
 To study and implement aggregate functions, group by and having clause with suitable examples.
 
